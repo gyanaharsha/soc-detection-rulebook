@@ -1,4 +1,3 @@
-
 ---
 name: Rule request
 about: Request a new detection rule
