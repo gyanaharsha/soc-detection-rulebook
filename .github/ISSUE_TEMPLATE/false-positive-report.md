@@ -1,3 +1,9 @@
+---
+name: Rule request
+about: Request a new detection rule
+labels: rule-request
+---
+
 **What should this rule detect?**
 [Describe the attack or behaviour]
 
