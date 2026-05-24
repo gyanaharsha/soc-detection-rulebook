@@ -1,17 +1,10 @@
 ---
-name: Rule request
-about: Request a new detection rule
-labels: rule-request
+name: False positive report
+about: Report a rule that fires incorrectly
+labels: false-positive
 ---
 
-**What should this rule detect?**
-[Describe the attack or behaviour]
-
-**MITRE ATT&CK technique**
-[e.g. T1078 - Valid Accounts]
-
-**Which SIEMs should it support?**
-[ ] Splunk  [ ] Microsoft Sentinel  [ ] Elastic
-
-**Why is this detection valuable?**
-[Real-world context or incident reference]
+**Rule name:**
+**Environment context:**
+**What triggered it:**
+**Suggested fix:**
